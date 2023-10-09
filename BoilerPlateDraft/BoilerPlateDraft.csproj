@@ -94,6 +94,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Code_Repo\AzureSQLServerConnection.cs" />
+    <Compile Include="Code_Repo\EncryptionDecryption.cs" />
     <Compile Include="Code_Repo\LDAPVerification.cs" />
     <Compile Include="Code_Repo\SFTPConnection.cs" />
     <Compile Include="Code_Repo\SSHConnection.cs" />
